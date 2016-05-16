@@ -1,0 +1,213 @@
+var element0info = getSortByName("element0");
+var element1info = getSortByName("element1");
+var element2info = getSortByName("element2");
+var element3info = getSortByName("element3");
+var element4info = getSortByName("element4");
+var element5info = getSortByName("element5");
+var element6info = getSortByName("element6");
+var element7info = getSortByName("element7");
+var element8info = getSortByName("element8");
+var element9info = getSortByName("element9");
+var element10info = getSortByName("element10");
+var element11info = getSortByName("element11");
+var element12info = getSortByName("element12");
+var element13info = getSortByName("element13");
+var element14info = getSortByName("element14");
+var element15info = getSortByName("element15");
+var element16info = getSortByName("element16");
+var element17info = getSortByName("element17");
+var element18info = getSortByName("element18");
+var element19info = getSortByName("element19");
+var element20info = getSortByName("element20");
+var element21info = getSortByName("element21");
+var element22info = getSortByName("element22");
+var element23info = getSortByName("element23");
+var element24info = getSortByName("element24");
+var element25info = getSortByName("element25");
+var element26info = getSortByName("element26");
+var element27info = getSortByName("element27");
+var element28info = getSortByName("element28");
+var element29info = getSortByName("element29");
+var element30info = getSortByName("element30");
+var element31info = getSortByName("element31");
+var element32info = getSortByName("element32");
+var element33info = getSortByName("element33");
+var element34info = getSortByName("element34");
+var element35info = getSortByName("element35");
+var element36info = getSortByName("element36");
+var element37info = getSortByName("element37");
+var element38info = getSortByName("element38");
+var element39info = getSortByName("element39");
+var element40info = getSortByName("element40");
+var element41info = getSortByName("element41");
+var element42info = getSortByName("element42");
+var element43info = getSortByName("element43");
+var element44info = getSortByName("element44");
+var element45info = getSortByName("element45");
+var element46info = getSortByName("element46");
+var element47info = getSortByName("element47");
+var element48info = getSortByName("element48");
+var element49info = getSortByName("element49");
+var element50info = getSortByName("element50");
+var element51info = getSortByName("element51");
+var element52info = getSortByName("element52");
+var element53info = getSortByName("element53");
+var element54info = getSortByName("element54");
+var element55info = getSortByName("element55");
+var element56info = getSortByName("element56");
+var element57info = getSortByName("element57");
+var element58info = getSortByName("element58");
+var element59info = getSortByName("element59");
+var element60info = getSortByName("element60");
+var element61info = getSortByName("element61");
+var element62info = getSortByName("element62");
+var element63info = getSortByName("element63");
+var element64info = getSortByName("element64");
+var element65info = getSortByName("element65");
+var element66info = getSortByName("element66");
+var element67info = getSortByName("element67");
+var element68info = getSortByName("element68");
+var element69info = getSortByName("element69");
+var element70info = getSortByName("element70");
+tests["element0"] = element0info[0].sort_order === 29;
+tests["element1"] = element1info[0].sort_order === 59;
+tests["element2"] = element2info[0].sort_order === 39;
+tests["element3"] = element3info[0].sort_order === 19;
+tests["element4"] = element4info[0].sort_order === 37;
+tests["element5"] = element5info[0].sort_order === 26;
+tests["element6"] = element6info[0].sort_order === 24;
+tests["element7"] = element7info[0].sort_order === 21;
+tests["element8"] = element8info[0].sort_order === 71;
+tests["element9"] = element9info[0].sort_order === 70;
+tests["element10"] = element10info[0].sort_order === 48;
+tests["element11"] = element11info[0].sort_order === 2;
+tests["element12"] = element12info[0].sort_order === 91;
+tests["element13"] = element13info[0].sort_order === 54;
+tests["element14"] = element14info[0].sort_order === 46;
+tests["element15"] = element15info[0].sort_order === 82;
+tests["element16"] = element16info[0].sort_order === 1;
+tests["element17"] = element17info[0].sort_order === 87;
+tests["element18"] = element18info[0].sort_order === 7;
+tests["element19"] = element19info[0].sort_order === 31;
+tests["element20"] = element20info[0].sort_order === 62;
+tests["element21"] = element21info[0].sort_order === 55;
+tests["element22"] = element22info[0].sort_order === 67;
+tests["element23"] = element23info[0].sort_order === 75;
+tests["element24"] = element24info[0].sort_order === 11;
+tests["element25"] = element25info[0].sort_order === 16;
+tests["element26"] = element26info[0].sort_order === 3;
+tests["element27"] = element27info[0].sort_order === 8;
+tests["element28"] = element28info[0].sort_order === 0;
+tests["element29"] = element29info[0].sort_order === 36;
+tests["element30"] = element30info[0].sort_order === 4;
+tests["element31"] = element31info[0].sort_order === 32;
+tests["element32"] = element32info[0].sort_order === 66;
+tests["element33"] = element33info[0].sort_order === 45;
+tests["element34"] = element34info[0].sort_order === 40;
+tests["element35"] = element35info[0].sort_order === 50;
+tests["element36"] = element36info[0].sort_order === 34;
+tests["element37"] = element37info[0].sort_order === 86;
+tests["element38"] = element38info[0].sort_order === 64;
+tests["element39"] = element39info[0].sort_order === 56;
+tests["element40"] = element40info[0].sort_order === 27;
+tests["element41"] = element41info[0].sort_order === 98;
+tests["element42"] = element42info[0].sort_order === 93;
+tests["element43"] = element43info[0].sort_order === 9;
+tests["element44"] = element44info[0].sort_order === 23;
+tests["element45"] = element45info[0].sort_order === 13;
+tests["element46"] = element46info[0].sort_order === 49;
+tests["element47"] = element47info[0].sort_order === 52;
+tests["element48"] = element48info[0].sort_order === 35;
+tests["element49"] = element49info[0].sort_order === 88;
+tests["element50"] = element50info[0].sort_order === 90;
+tests["element51"] = element51info[0].sort_order === 10;
+tests["element52"] = element52info[0].sort_order === 28;
+tests["element53"] = element53info[0].sort_order === 73;
+tests["element54"] = element54info[0].sort_order === 20;
+tests["element55"] = element55info[0].sort_order === 33;
+tests["element56"] = element56info[0].sort_order === 6;
+tests["element57"] = element57info[0].sort_order === 85;
+tests["element58"] = element58info[0].sort_order === 51;
+tests["element59"] = element59info[0].sort_order === 97;
+tests["element60"] = element60info[0].sort_order === 83;
+tests["element61"] = element61info[0].sort_order === 81;
+tests["element62"] = element62info[0].sort_order === 15;
+tests["element63"] = element63info[0].sort_order === 12;
+tests["element64"] = element64info[0].sort_order === 22;
+tests["element65"] = element65info[0].sort_order === 74;
+tests["element66"] = element66info[0].sort_order === 5;
+tests["element67"] = element67info[0].sort_order === 95;
+tests["element68"] = element68info[0].sort_order === 44;
+tests["element69"] = element69info[0].sort_order === 94;
+tests["element70"] = element70info[0].sort_order === 57;
+postman.setEnvironmentVariable("element0id", element0info[0].id)
+postman.setEnvironmentVariable("element1id", element1info[0].id)
+postman.setEnvironmentVariable("element2id", element2info[0].id)
+postman.setEnvironmentVariable("element3id", element3info[0].id)
+postman.setEnvironmentVariable("element4id", element4info[0].id)
+postman.setEnvironmentVariable("element5id", element5info[0].id)
+postman.setEnvironmentVariable("element6id", element6info[0].id)
+postman.setEnvironmentVariable("element7id", element7info[0].id)
+postman.setEnvironmentVariable("element8id", element8info[0].id)
+postman.setEnvironmentVariable("element9id", element9info[0].id)
+postman.setEnvironmentVariable("element10id", element10info[0].id)
+postman.setEnvironmentVariable("element11id", element11info[0].id)
+postman.setEnvironmentVariable("element12id", element12info[0].id)
+postman.setEnvironmentVariable("element13id", element13info[0].id)
+postman.setEnvironmentVariable("element14id", element14info[0].id)
+postman.setEnvironmentVariable("element15id", element15info[0].id)
+postman.setEnvironmentVariable("element16id", element16info[0].id)
+postman.setEnvironmentVariable("element17id", element17info[0].id)
+postman.setEnvironmentVariable("element18id", element18info[0].id)
+postman.setEnvironmentVariable("element19id", element19info[0].id)
+postman.setEnvironmentVariable("element20id", element20info[0].id)
+postman.setEnvironmentVariable("element21id", element21info[0].id)
+postman.setEnvironmentVariable("element22id", element22info[0].id)
+postman.setEnvironmentVariable("element23id", element23info[0].id)
+postman.setEnvironmentVariable("element24id", element24info[0].id)
+postman.setEnvironmentVariable("element25id", element25info[0].id)
+postman.setEnvironmentVariable("element26id", element26info[0].id)
+postman.setEnvironmentVariable("element27id", element27info[0].id)
+postman.setEnvironmentVariable("element28id", element28info[0].id)
+postman.setEnvironmentVariable("element29id", element29info[0].id)
+postman.setEnvironmentVariable("element30id", element30info[0].id)
+postman.setEnvironmentVariable("element31id", element31info[0].id)
+postman.setEnvironmentVariable("element32id", element32info[0].id)
+postman.setEnvironmentVariable("element33id", element33info[0].id)
+postman.setEnvironmentVariable("element34id", element34info[0].id)
+postman.setEnvironmentVariable("element35id", element35info[0].id)
+postman.setEnvironmentVariable("element36id", element36info[0].id)
+postman.setEnvironmentVariable("element37id", element37info[0].id)
+postman.setEnvironmentVariable("element38id", element38info[0].id)
+postman.setEnvironmentVariable("element39id", element39info[0].id)
+postman.setEnvironmentVariable("element40id", element40info[0].id)
+postman.setEnvironmentVariable("element41id", element41info[0].id)
+postman.setEnvironmentVariable("element42id", element42info[0].id)
+postman.setEnvironmentVariable("element43id", element43info[0].id)
+postman.setEnvironmentVariable("element44id", element44info[0].id)
+postman.setEnvironmentVariable("element45id", element45info[0].id)
+postman.setEnvironmentVariable("element46id", element46info[0].id)
+postman.setEnvironmentVariable("element47id", element47info[0].id)
+postman.setEnvironmentVariable("element48id", element48info[0].id)
+postman.setEnvironmentVariable("element49id", element49info[0].id)
+postman.setEnvironmentVariable("element50id", element50info[0].id)
+postman.setEnvironmentVariable("element51id", element51info[0].id)
+postman.setEnvironmentVariable("element52id", element52info[0].id)
+postman.setEnvironmentVariable("element53id", element53info[0].id)
+postman.setEnvironmentVariable("element54id", element54info[0].id)
+postman.setEnvironmentVariable("element55id", element55info[0].id)
+postman.setEnvironmentVariable("element56id", element56info[0].id)
+postman.setEnvironmentVariable("element57id", element57info[0].id)
+postman.setEnvironmentVariable("element58id", element58info[0].id)
+postman.setEnvironmentVariable("element59id", element59info[0].id)
+postman.setEnvironmentVariable("element60id", element60info[0].id)
+postman.setEnvironmentVariable("element61id", element61info[0].id)
+postman.setEnvironmentVariable("element62id", element62info[0].id)
+postman.setEnvironmentVariable("element63id", element63info[0].id)
+postman.setEnvironmentVariable("element64id", element64info[0].id)
+postman.setEnvironmentVariable("element65id", element65info[0].id)
+postman.setEnvironmentVariable("element66id", element66info[0].id)
+postman.setEnvironmentVariable("element67id", element67info[0].id)
+postman.setEnvironmentVariable("element68id", element68info[0].id)
+postman.setEnvironmentVariable("element69id", element69info[0].id)
+postman.setEnvironmentVariable("element70id", element70info[0].id)

@@ -1,0 +1,30 @@
+require "test/unit"
+require "rubygems"
+require "appium_lib"
+gem "selenium-client"
+gem "appium_lib"
+#gem "selenium-webdriver", "~> 2.37.0"
+#gem "rspec", "=2.14.1" 
+require "selenium/client"
+require "selenium-webdriver"
+require "time"
+require "highline/import"
+require "rexml/document"
+require 'active_support/all'
+#require "mongo"
+require 'net/http'
+require 'shoulda'
+require 'Mail'
+require 'json'
+require 'rexml/document'
+require 'rspec'
+
+
+def createJsonArray(count)
+	$i = 0
+count = 5
+jsonArray = array.new 
+while $i < count  do
+   puts("Inside the loop i = #$i" )
+   $i +=1
+end
